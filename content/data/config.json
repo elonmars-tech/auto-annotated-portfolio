@@ -51,7 +51,7 @@
         "primaryLinks": [],
         "contacts": {
             "type": "ContactBlock",
-            "title": "Contact details",
+            "title": "",
             "phoneNumber": "",
             "phoneAltText": "",
             "email": "https://t.me/+LLreXHiUPMhlNjQ1",
