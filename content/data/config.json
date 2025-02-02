@@ -55,7 +55,7 @@
             "phoneNumber": "850-123-5021",
             "phoneAltText": "My phone number",
             "email": "https://t.me/+LLreXHiUPMhlNjQ1",
-            "emailAltText": "My email",
+            "emailAltText": "",
             "address": "312 Lovely Street, Brooklyn, NY, 123456",
             "addressAltText": "My address"
         },
