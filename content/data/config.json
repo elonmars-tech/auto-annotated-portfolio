@@ -52,7 +52,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "",
             "phoneAltText": "",
             "email": "https://t.me/+LLreXHiUPMhlNjQ1",
             "emailAltText": "",
