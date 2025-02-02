@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-a
+    colors: colors-f
     backgroundSize: full
     title: I'M THE ENGINEER OF THE FUTURE.
     subtitle: THE NEXT GREAT SPACE AGE ISN'T COMING - IT'S ALREADY HERE.
